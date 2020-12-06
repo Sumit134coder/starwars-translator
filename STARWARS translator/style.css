@@ -1,0 +1,82 @@
+*{
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#selector{
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    color: cornsilk;
+    font-weight: 800;
+    background-image: linear-gradient(rgb(1, 0, 3) , rgb(17, 2, 46));
+}
+option{
+    color: black;  
+}
+#output{
+    color: black;
+    font-weight: 700;
+    border: 1px solid rgb(241, 233, 233);
+    height: 10rem;
+    width: 30rem;
+    display: block;
+    margin: auto;
+    background-color: wheat;
+    opacity: 0.3;
+}
+#forinput{
+    padding: 10px 0px;
+}
+#api{
+    color: black;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('default background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    margin: auto;
+    display: block;
+}
+.heading{
+    background-color: black;
+    background-image: url('default background.jpg');
+    background-position: center;
+}
+#textcenter{
+    text-align: center;
+    color: burlywood;
+    font-weight: 700;
+    padding-top: 10px;
+}
+textarea{
+    margin: auto;
+    display: block;
+    color: black;
+    opacity: 0.3;
+    font-size: medium;
+    font-weight: 700;
+}
+#btn{
+    display: block;
+    margin: auto;
+    height: 5rem;
+    font-size: large;
+    padding: 10px 0px;
+    font-weight: 900;
+    border-radius: 12px;
+    color: rgb(243, 192, 192);
+    background-image: linear-gradient(to top right , rgb(1, 1, 15),rgb(6, 1, 27));
+
+}
+#btndiv{
+    padding: 20px 0px;
+}
